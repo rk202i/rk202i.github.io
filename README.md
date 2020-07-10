@@ -1,0 +1,1 @@
+[ HOME ]( http://pages.strayed.xyz )

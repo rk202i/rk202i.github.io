@@ -1,7 +1,6 @@
 {
   "name": "rk202i.github.io",
   "version": "1.0.0",
-  "description": "",
   "main": "main.js",
   "repository": {
     "type": "git",
@@ -15,6 +14,12 @@
   },
   "homepage": "https://rk202i.github.io/index.html",
   "dependencies": {
-    "angular": "^1.8.0"
-  }
+    "angular": "^1.8.0",
+    "redis": "^3.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": ""
 }
