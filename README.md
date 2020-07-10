@@ -1,1 +1,1 @@
-[ HOME ]( http://pages.strayed.xyz )
+[ README ](README.md)
