@@ -13,5 +13,8 @@
   "bugs": {
     "url": "https://github.com/rk202i/rk202i.github.io/issues"
   },
-  "homepage": "https://rk202i.github.io/index.html"
+  "homepage": "https://rk202i.github.io/index.html",
+  "dependencies": {
+    "angular": "^1.8.0"
+  }
 }
